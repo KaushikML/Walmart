@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+SQLAlchemy
+aiosqlite
+httpx
+sendgrid
+langchain
+gradio
